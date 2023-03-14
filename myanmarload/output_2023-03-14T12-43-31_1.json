@@ -1,0 +1,944 @@
+{
+    "crawled_links": [
+        "https://myanmarload.com",
+        "https://myanmarload.com/audio",
+        "https://myanmarload.com/",
+        "https://myanmarload.com/search",
+        "https://myanmarload.com/menu",
+        "https://myanmarload.com/article/108216",
+        "https://myanmarload.com/writer/126",
+        "https://myanmarload.com/article/108209",
+        "https://myanmarload.com/writer/125",
+        "https://myanmarload.com/article/108219",
+        "https://myanmarload.com/article/108210",
+        "https://myanmarload.com/writer/133",
+        "https://myanmarload.com/article/108212",
+        "https://myanmarload.com/article/108034",
+        "https://myanmarload.com/article/108077",
+        "https://myanmarload.com/article/108131",
+        "https://myanmarload.com/writer/113",
+        "https://myanmarload.com/article/108177",
+        "https://myanmarload.com/writer/132",
+        "https://myanmarload.com/article/108145"
+    ],
+    "https://myanmarload.com": {
+        "title": "Myanmarload",
+        "description": "Visit Myanmarload for up-to-the-minute news, breaking news, and feature stories.",
+        "article": [
+            {
+                "သားလေးနဲ့အတူပွဲတက်လာတဲ့ပုံရိပ်ကြောင့် အချစ်ခံနေရတဲ့ မင်းသားကြီး So Ji-sub": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/11/1125a9fe9c2e4e7f312301b1b6986f62ab3cf572.jpg",
+                        "https://www.gravatar.com/avatar/9a538e311b90e2a52ad614b151ad3db4?s=100&d=robohash&r=g"
+                    ]
+                }
+            },
+            {
+                "ချစ်ရတဲ့ အမျိုးသမီး Hailey နဲ့အတူ အော်စကာဆုပေးပွဲကိုတက်ရောက်လာခဲ့တဲ့ Justin Bieber": {
+                    "paragraphs": [
+                        "ပရိသတ်အချစ်တော် ကနေဒီယန် အဆိုတော် Justin Bieber ဟာ......\n(အပြည့်အစုံဖတ်ရန် ပုံ ကိုနှိပ်ပါ)"
+                    ],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/9f/9fd78673f106fb43e287e0b3222b8a9673551188.jpg",
+                        "https://www.gravatar.com/avatar/3440dab723cffdfbfb6b2eb7e0cdb23f?s=100&d=robohash&r=g"
+                    ]
+                }
+            },
+            {
+                "မြန်မာ့ရုပ်ရှင်အကယ်ဒမီထူးချွန်ဆုပေးပွဲ ကို (၃)နှစ်စာပေါင်းပြီး ကျင်းပသွားမည်": {
+                    "paragraphs": [
+                        "အနုပညာရှင်တွေရဲ့ ရည်မှန်းချက်လို့ သတ်မှတ်ချက်ထားကြတဲ့ ........\n(အပြည့်အစုံဖတ်ရန် ပုံ ကိုနှိပ်ပါ)"
+                    ],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/b4/b4cd54c70032802264ce9d67cbe73ea8e7c1fcf2.jpg",
+                        "https://www.gravatar.com/avatar/3440dab723cffdfbfb6b2eb7e0cdb23f?s=100&d=robohash&r=g"
+                    ]
+                }
+            },
+            {
+                "Michelle Yeoh ရဲ့ အောင်မြင်မှုကို ခမ်းခမ်းနားနားဂုဏ်ပြုပေးခဲ့တဲ့ မလေးရှားပြည်သူများ...": {
+                    "paragraphs": [
+                        "တစ်မြို့လုံးသူ့ပုံပဲ..."
+                    ],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/ff/ff98cb0d40eeb14171b7202b1d35d67d416297af.jpg",
+                        "https://www.gravatar.com/avatar/e125e9ca7aa22bdfe2b6892bb640afb0?s=100&d=robohash&r=g"
+                    ]
+                }
+            },
+            {
+                "ဒီကနေ့မှာ အသက် (၅၈)နှစ်ပြည့်သွားခဲ့ပြီဖြစ်တဲ့ ဘောလိဝုဒ် မင်းသားကြီး အမီရာခန်း": {
+                    "paragraphs": [
+                        "ပရိသတ်အချစ်တော် ဘောလိဝုဒ်ကြယ်ပွင့် အမီရာခန်း ကတော့......\n(အပြည့်အစုံဖတ်ရန် ပုံ ကိုနှိပ်ပါ)"
+                    ],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/96/960a3fd8a2037d8d36322a17f95e45d57a7e66be.jpg",
+                        "https://www.gravatar.com/avatar/3440dab723cffdfbfb6b2eb7e0cdb23f?s=100&d=robohash&r=g"
+                    ]
+                }
+            },
+            {
+                "Chanel event မှာချစ်ချစ်ခင်ခင်နဲ့အတူတွဲ တွေ့လိုက်ရတဲ့ Park Seo Joon နဲ့ Jennie": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=250,h=130,q=100/ca/ca3a3e5cb3be019105b8f7edbdf1dbddf01fd5bb.jpeg",
+                        "https://www.gravatar.com/avatar/9a538e311b90e2a52ad614b151ad3db4?s=100&d=robohash&r=g"
+                    ]
+                }
+            },
+            {
+                "အသက်(၅)နှစ်ငယ်တဲ့မောင်လေး Tyga နဲ့ တရားဝင်တွဲနေပြီဖြစ်တဲ့ Avril Lavigne": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=250,h=130,q=100/ee/ee36ba5ae9db1ee0b971f2174607701a711f3216.jpg",
+                        "https://www.gravatar.com/avatar/3440dab723cffdfbfb6b2eb7e0cdb23f?s=100&d=robohash&r=g"
+                    ]
+                }
+            },
+            {
+                "ကမ္ဘာ့ထိပ်တန်း ထူးခြားတဲ့ ရှေးဟောင်းနေရာ ၃ ခု": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=250,h=130,q=100/19/19d0d9b7f73ce4c24c65b47f0a01b4f17bb4b0f1.jpg",
+                        "https://www.gravatar.com/avatar/296adad03350604d73e37d68e2b0d725?s=100&d=robohash&r=g"
+                    ]
+                }
+            },
+            {
+                "ပရိသတ်တွေမတွေ့ဖူးသေးတဲ့ Hyun Bin နဲ့ Goo Hye Sun တို့ရဲ့ ရှားပါးစုံတွဲဓာတ်ပုံများ": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=250,h=130,q=100/5e/5e6d8f99af3ba915d379bcf638e06e5a8b142f0f.jpg",
+                        "https://www.gravatar.com/avatar/d6281f92d3d436d5d53e7272b22cf5bb?s=100&d=robohash&r=g"
+                    ]
+                }
+            },
+            {
+                "Island ဇာတ်လမ်းတွဲကို ခက်ခက်ခဲခဲ ရိုက်ကူးခဲ့ရပုံကို ပြောပြလာတဲ့ Cha Eun Woo": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=250,h=130,q=100/54/541fb4faf72b9167546dfbaa160b099fb2271a44.jpeg",
+                        "https://www.gravatar.com/avatar/9a538e311b90e2a52ad614b151ad3db4?s=100&d=robohash&r=g"
+                    ]
+                }
+            },
+            {
+                "'BRIT Award' မှာ အထူးဆုတွေ ထပ်မံသိမ်းပိုက်လိုက်တဲ့ Harry styles..": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=250,h=130,q=100/c2/c264f5fce2466e153f6aae4b56f7ac6c0b19ce0a.jpg",
+                        "https://www.gravatar.com/avatar/e125e9ca7aa22bdfe2b6892bb640afb0?s=100&d=robohash&r=g"
+                    ]
+                }
+            },
+            {
+                "Flavian Amphitheatre လို့ လူသိများတဲ့ ရှေးဟောင်းပွဲကြည့်စင်ကြီး": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=250,h=130,q=100/cd/cd3fa394839dd2227a1c532647c0a81b9f049e65.jpg",
+                        "https://www.gravatar.com/avatar/296adad03350604d73e37d68e2b0d725?s=100&d=robohash&r=g"
+                    ]
+                }
+            }
+        ]
+    },
+    "https://myanmarload.com/audio": {
+        "title": "Myanmarload",
+        "description": "Visit Myanmarload for up-to-the-minute news, breaking news, and feature stories.",
+        "article": []
+    },
+    "https://myanmarload.com/": {
+        "title": "Myanmarload",
+        "description": "Visit Myanmarload for up-to-the-minute news, breaking news, and feature stories.",
+        "article": [
+            {
+                "သားလေးနဲ့အတူပွဲတက်လာတဲ့ပုံရိပ်ကြောင့် အချစ်ခံနေရတဲ့ မင်းသားကြီး So Ji-sub": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/11/1125a9fe9c2e4e7f312301b1b6986f62ab3cf572.jpg",
+                        "https://www.gravatar.com/avatar/9a538e311b90e2a52ad614b151ad3db4?s=100&d=robohash&r=g"
+                    ]
+                }
+            },
+            {
+                "ချစ်ရတဲ့ အမျိုးသမီး Hailey နဲ့အတူ အော်စကာဆုပေးပွဲကိုတက်ရောက်လာခဲ့တဲ့ Justin Bieber": {
+                    "paragraphs": [
+                        "ပရိသတ်အချစ်တော် ကနေဒီယန် အဆိုတော် Justin Bieber ဟာ......\n(အပြည့်အစုံဖတ်ရန် ပုံ ကိုနှိပ်ပါ)"
+                    ],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/9f/9fd78673f106fb43e287e0b3222b8a9673551188.jpg",
+                        "https://www.gravatar.com/avatar/3440dab723cffdfbfb6b2eb7e0cdb23f?s=100&d=robohash&r=g"
+                    ]
+                }
+            },
+            {
+                "မြန်မာ့ရုပ်ရှင်အကယ်ဒမီထူးချွန်ဆုပေးပွဲ ကို (၃)နှစ်စာပေါင်းပြီး ကျင်းပသွားမည်": {
+                    "paragraphs": [
+                        "အနုပညာရှင်တွေရဲ့ ရည်မှန်းချက်လို့ သတ်မှတ်ချက်ထားကြတဲ့ ........\n(အပြည့်အစုံဖတ်ရန် ပုံ ကိုနှိပ်ပါ)"
+                    ],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/b4/b4cd54c70032802264ce9d67cbe73ea8e7c1fcf2.jpg",
+                        "https://www.gravatar.com/avatar/3440dab723cffdfbfb6b2eb7e0cdb23f?s=100&d=robohash&r=g"
+                    ]
+                }
+            },
+            {
+                "Michelle Yeoh ရဲ့ အောင်မြင်မှုကို ခမ်းခမ်းနားနားဂုဏ်ပြုပေးခဲ့တဲ့ မလေးရှားပြည်သူများ...": {
+                    "paragraphs": [
+                        "တစ်မြို့လုံးသူ့ပုံပဲ..."
+                    ],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/ff/ff98cb0d40eeb14171b7202b1d35d67d416297af.jpg",
+                        "https://www.gravatar.com/avatar/e125e9ca7aa22bdfe2b6892bb640afb0?s=100&d=robohash&r=g"
+                    ]
+                }
+            },
+            {
+                "ဒီကနေ့မှာ အသက် (၅၈)နှစ်ပြည့်သွားခဲ့ပြီဖြစ်တဲ့ ဘောလိဝုဒ် မင်းသားကြီး အမီရာခန်း": {
+                    "paragraphs": [
+                        "ပရိသတ်အချစ်တော် ဘောလိဝုဒ်ကြယ်ပွင့် အမီရာခန်း ကတော့......\n(အပြည့်အစုံဖတ်ရန် ပုံ ကိုနှိပ်ပါ)"
+                    ],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/96/960a3fd8a2037d8d36322a17f95e45d57a7e66be.jpg",
+                        "https://www.gravatar.com/avatar/3440dab723cffdfbfb6b2eb7e0cdb23f?s=100&d=robohash&r=g"
+                    ]
+                }
+            },
+            {
+                "ပရိသတ်တွေမတွေ့ဖူးသေးတဲ့ Hyun Bin နဲ့ Goo Hye Sun တို့ရဲ့ ရှားပါးစုံတွဲဓာတ်ပုံများ": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=250,h=130,q=100/5e/5e6d8f99af3ba915d379bcf638e06e5a8b142f0f.jpg",
+                        "https://www.gravatar.com/avatar/d6281f92d3d436d5d53e7272b22cf5bb?s=100&d=robohash&r=g"
+                    ]
+                }
+            },
+            {
+                "'BRIT Award' မှာ အထူးဆုတွေ ထပ်မံသိမ်းပိုက်လိုက်တဲ့ Harry styles..": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=250,h=130,q=100/c2/c264f5fce2466e153f6aae4b56f7ac6c0b19ce0a.jpg",
+                        "https://www.gravatar.com/avatar/e125e9ca7aa22bdfe2b6892bb640afb0?s=100&d=robohash&r=g"
+                    ]
+                }
+            },
+            {
+                "Chanel event မှာချစ်ချစ်ခင်ခင်နဲ့အတူတွဲ တွေ့လိုက်ရတဲ့ Park Seo Joon နဲ့ Jennie": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=250,h=130,q=100/ca/ca3a3e5cb3be019105b8f7edbdf1dbddf01fd5bb.jpeg",
+                        "https://www.gravatar.com/avatar/9a538e311b90e2a52ad614b151ad3db4?s=100&d=robohash&r=g"
+                    ]
+                }
+            },
+            {
+                "ကမ္ဘာ့ထိပ်တန်း ထူးခြားတဲ့ ရှေးဟောင်းနေရာ ၃ ခု": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=250,h=130,q=100/19/19d0d9b7f73ce4c24c65b47f0a01b4f17bb4b0f1.jpg",
+                        "https://www.gravatar.com/avatar/296adad03350604d73e37d68e2b0d725?s=100&d=robohash&r=g"
+                    ]
+                }
+            },
+            {
+                "Flavian Amphitheatre လို့ လူသိများတဲ့ ရှေးဟောင်းပွဲကြည့်စင်ကြီး": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=250,h=130,q=100/cd/cd3fa394839dd2227a1c532647c0a81b9f049e65.jpg",
+                        "https://www.gravatar.com/avatar/296adad03350604d73e37d68e2b0d725?s=100&d=robohash&r=g"
+                    ]
+                }
+            },
+            {
+                "အသက်(၅)နှစ်ငယ်တဲ့မောင်လေး Tyga နဲ့ တရားဝင်တွဲနေပြီဖြစ်တဲ့ Avril Lavigne": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=250,h=130,q=100/ee/ee36ba5ae9db1ee0b971f2174607701a711f3216.jpg",
+                        "https://www.gravatar.com/avatar/3440dab723cffdfbfb6b2eb7e0cdb23f?s=100&d=robohash&r=g"
+                    ]
+                }
+            },
+            {
+                "Island ဇာတ်လမ်းတွဲကို ခက်ခက်ခဲခဲ ရိုက်ကူးခဲ့ရပုံကို ပြောပြလာတဲ့ Cha Eun Woo": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=250,h=130,q=100/54/541fb4faf72b9167546dfbaa160b099fb2271a44.jpeg",
+                        "https://www.gravatar.com/avatar/9a538e311b90e2a52ad614b151ad3db4?s=100&d=robohash&r=g"
+                    ]
+                }
+            }
+        ]
+    },
+    "https://myanmarload.com/search": {
+        "title": "Search - Myanmarload",
+        "description": "Visit Myanmarload for up-to-the-minute news, breaking news, and feature stories.",
+        "article": []
+    },
+    "https://myanmarload.com/menu": {
+        "title": "Menu - Myanmarload",
+        "description": "Visit Myanmarload for up-to-the-minute news, breaking news, and feature stories.",
+        "article": []
+    },
+    "https://myanmarload.com/article/108216": {
+        "title": "သားလေးနဲ့အတူပွဲတက်လာတဲ့ပုံရိပ်ကြောင့် အချစ်ခံနေရတဲ့ မင်းသားကြီး So Ji-sub - Myanmarload",
+        "description": "ကလေးအရမ်းချစ်တတ်တာနော် .. ချစ်ဖို့ကောင်းလိုက်တဲ့ မိသားစုလေး ❤",
+        "article": [
+            {
+                "သားလေးနဲ့အတူပွဲတက်လာတဲ့ပုံရိပ်ကြောင့် အချစ်ခံနေရတဲ့ မင်းသားကြီး So Ji-sub": {
+                    "paragraphs": [
+                        "ကလေးအရမ်းချစ်တတ်တာနော် .. ချစ်ဖို့ကောင်းလိုက်တဲ့ မိသားစုလေး ❤",
+                        "ဘတ်ချောအွန်းလို့\nမြန်မာပရိသတ်တွေကြားမှာ လူသိများတဲ့ တောင်ကိုရီးယားမင်းသားကြီး So Ji-sub ဟာဆိုရင်\nချစ်မိသားစုလေးနဲ့ ပျော်ရွှင်စရာကောင်းတဲ့ အိမ်ထောင်ရေးလေးကို တည်ဆောက်ထားတာဖြစ်ပါတယ်။",
+                        "မင်းသားကြီး\nSo Ji-sub က ၂၀၂၀ ခုနှစ်တုန်းကမှ ချစ်ဇနီးလေးနဲ့ လက်ထပ်ထားတာဖြစ်ပြီး သားသမီးရတနာ ထွန်းကားထားခြင်း\nမရှိပါဘူး။ ဒါ ပေမယ့်လည်း မကြာသေးမီက မင်းသားကြီး So Ji-sub တစ်ယောက် Red Carpets ပွဲ\nအခမ်းအနားကို မိသားစုတစ်စုနဲ့အတူ ပွဲတက်ရောက်လာခဲ့ပါတယ်။",
+                        "အဆိုပါ ပွဲမှာ\nSo Ji-sub ကို မိသားစုတစ်ခုနဲ့ တွဲတွေ့ရပြီး ဘေးနားမှာ ချစ်စရာ ကလေးလေး တစ်ယောက်ပါနေတာကိုပါတွေ့ရပါတယ်။\nပရိသတ်တွေကတော့ အဆိုပါ ကလေးလေးကို မင်းသား So Ji-sub ရဲ့ သားလေးလို့ ထင်ကြေးပေးထားပါတယ်။\nဒါပေမယ့် တကယ်တမ်းမှာ So Ji-sub က ကလေး မရှိသေးတဲ့အတွက် သား အရင်းမဖြစ်နိုင်ပါတယ်။",
+                        "\nမင်းသား So Ji-sub က ကလေး အရမ်းချစ်တတ်တဲ့သူဖြစ်ပေမယ့် လက်ရှိအချိန်အထိ ကလေး မရသေးပါဘူး။\nRed Carpets ပွဲမှာခေါ်လာတဲ့ ကလေးငယ်ကို အရမ်းချစ်ပေးပြီး သားအရင်းသဖွယ် စောင့်ရှောက်ပေးနေတဲ့\nမင်းသား So Ji-sub ကို ပရိသတ်တွေက ချစ်မဝ ဖြစ်နေကြပါတယ်။ "
+                    ],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/11/1125a9fe9c2e4e7f312301b1b6986f62ab3cf572.jpg",
+                        "https://s9.kh1.co/__image/w=650,h=434,q=100/09/0964f2239d7345cbc8d78155208d860132872125.jpg",
+                        "https://s9.kh1.co/__image/w=650,h=976,q=100/a1/a13a57607c868943768db2ba24c42df0c739f82a.jpg",
+                        "https://s9.kh1.co/__image/w=600,h=810,q=100/4a/4a66e9ac67c6ce4dc01f3f535c3441b212599651.jpg",
+                        "https://s9.kh1.co/__image/w=333,h=544,q=100/80/8067aac37df470198377ce6b949bbdd99e505ea9.png",
+                        "https://s9.kh1.co/__image/w=336,h=495,q=100/d3/d3557fcdaebaf6810ca8492d566a0075afe539a1.png",
+                        "https://s9.kh1.co/__image/w=335,h=517,q=100/f1/f1adcb8f6974d43a4b9d0feca75d3c07380b1c5b.png"
+                    ]
+                }
+            },
+            {
+                "ကမ္ဘာ့ဆွဲဆောင်မှုအရှိဆုံး အပြုံးပိုင်ရှင်ဖြစ်လာတဲ့ မိန်းမပျိုလေးတွေရဲ့ အသည်းစွဲ Harry Styles": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/ec/ec986352f9da21ccd33045d13f16fb3a82274700.jpg"
+                    ]
+                }
+            },
+            {
+                "အစ်ကိုဖြစ်သူဝေမျှပေးလာတဲ့ မင်းသမီး Park Shin Hye ရဲ့သားလေး မွေးကင်းစတုန်းက ပုံစံလေး": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/8a/8ab3e8ad9c7cb590abe7495c49989a55be850c20.jpg"
+                    ]
+                }
+            },
+            {
+                "တဖြည်းဖြည်းအရွယ်ရောက်လာတဲ့ သားလေးကို ချစ်မဝဖြစ်နေတဲ့ Markis နဲ့ စုစုဝေ": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/0f/0f524ed9d6a74ec193c13d31cefd029c8ce5372b.jpg"
+                    ]
+                }
+            },
+            {
+                "Park Shin Hye နဲ့ ပြန်ပြီးလက်တွဲလုပ်ကိုင်ရမယ့် ခံစားချက်ကို ပြောပြလာတဲ့ Park Hyung Sik": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/fa/fabc5cd4c4df794d70554ad9e5dcc9af6839e03b.jpg"
+                    ]
+                }
+            },
+            {
+                "": {
+                    "paragraphs": [],
+                    "images": []
+                }
+            }
+        ]
+    },
+    "https://myanmarload.com/writer/126": {
+        "title": "Maria Emily Hsu - Myanmarload",
+        "description": "Visit Myanmarload for up-to-the-minute news, breaking news, and feature stories.",
+        "article": []
+    },
+    "https://myanmarload.com/article/108209": {
+        "title": "ချစ်ရတဲ့ အမျိုးသမီး Hailey နဲ့အတူ အော်စကာဆုပေးပွဲကိုတက်ရောက်လာခဲ့တဲ့ Justin Bieber - Myanmarload",
+        "description": "ပရိသတ်အချစ်တော် ကနေဒီယန် အဆိုတော် Justin Bieber ဟာ......\n(အပြည့်အစုံဖတ်ရန် ပုံ ကိုနှိပ်ပါ)",
+        "article": [
+            {
+                "ချစ်ရတဲ့ အမျိုးသမီး Hailey နဲ့အတူ အော်စကာဆုပေးပွဲကိုတက်ရောက်လာခဲ့တဲ့ Justin Bieber": {
+                    "paragraphs": [
+                        "ပရိသတ်အချစ်တော် ကနေဒီယန် အဆိုတော် Justin Bieber ဟာ......\n(အပြည့်အစုံဖတ်ရန် ပုံ ကိုနှိပ်ပါ)",
+                        "ယခု (၂၀၂၃) ခုနှစ်အတွက် ကမ္ဘာ့အကြီးကျယ်ဆုံး ရုပ်ရှင်ဆုပေးပွဲကြီးဖြစ်တဲ့ အော်စကာဆုပေးပွဲ ကြီး ကို မတ်လ(၁၂)ရက်နေ့မှာ ကျင်းပပြုလုပ်ခဲ့ပြီး ကမ္ဘာအရပ်ရပ်နဲ့ နယ်ပယ်အသီးသီးက အနုပညာရှင်ပေါင်းများစွာက အခမ်းနားဆုံးတက်ရောက်နေကြပြီဖြစ်တယ်လို့ သိရပါတယ်။",
+                        "(၂၀၂၃) ခုနှစ် အော်စကာဆုပေးပွဲ မှာ ဟောလိဝုဒ် ၊ ဘောလိဝုဒ် အစရှိတဲ့ အနောက်တိုင်းရော အာရှမှာပါ ပါဝင်တဲ့ နယ်ပယ်အသီးသီးက အနုပညာရှင်တွေကတက်ရောက်လာခဲ့သလို နယ်ပယ်အသီးသီးက ထူးချွန်တဲ့ အနုပညာရှင်တွေကလည်း သက်ဆိုင်ရာ အကောင်းဆုံးသောဆုတွေကို ပိုင်ဆိုင်ရရှိခဲ့ကြတယ်လို့ သိရပြီး ပရိသတ်အကြိုက်နဲ့ ၇၀ရာခိုင်နှုန်းလောက်ထပ်တူကျခဲ့တယ်လို့ သိရပါတယ်။",
+                        "(၂၀၂၃) ခုနှစ် အော်စကာဆုပေးပွဲ အတွက် စိတ်ဝင်စားမှုအများဆုံး ရရှိသူထဲပါဝင်လာတာကတော့ လတ်တလောမှာ အတိုက်ခိုက်တွေများနေတဲ့ ကနေဒီယန် အဆိုတော် Justin Bieber နဲ့ သူ့အမျိုးသမီး Hailey Bieber ပါပဲ။ အတိုက်အခိုက်တွေဘယ်လောက်များပါစေ ၊ နှစ်ဦးသားဟာ တစ်ယောက်လက်ကိုတစ်ယောက် ခိုင်ခိုင်မာမာတွဲပြီး အခူလိုပွဲတက်လာတာဟာ တကယ်ကို အံ့အားသင့်စရာပါပဲ။ နှစ်ယောက်သားရဲ့ ချစ်စရာပုံရိပ်တွေကို ပရိသတ်ကြီးကြည့်ရှုနိုင်စေရန်ဖော်ပြလိုက်ရပါတယ်။ "
+                    ],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/9f/9fd78673f106fb43e287e0b3222b8a9673551188.jpg",
+                        "https://s9.kh1.co/__image/w=650,h=372,q=100/f8/f8d5ff548bc42f269c6ef4762f9deba6ec567820.jpg",
+                        "https://s9.kh1.co/__image/w=650,h=366,q=100/db/dbd7cb585d407d8120ddf07d81c54b07d1706784.jpg",
+                        "https://s9.kh1.co/__image/w=650,h=862,q=100/1a/1af82f0eb7737571e5d85fc5647c113132edbdcd.jpg",
+                        "https://s9.kh1.co/__image/w=650,h=975,q=100/8d/8d32919db953e918217a0a3a925ba47882650780.jpg",
+                        "https://s9.kh1.co/__image/w=650,h=976,q=100/2c/2c59c23507937794e7433371aa6191b16483c7b6.jpg",
+                        "https://s9.kh1.co/__image/w=650,h=976,q=100/6a/6adf6188c409117a47b96138d82f5936d23b111e.jpg",
+                        "https://s9.kh1.co/__image/w=650,h=434,q=100/30/30acb2a3173be8fbb5f1e4ae0e9dccacaa3702da.jpg"
+                    ]
+                }
+            },
+            {
+                "ကမ္ဘာ့ဆွဲဆောင်မှုအရှိဆုံး အပြုံးပိုင်ရှင်ဖြစ်လာတဲ့ မိန်းမပျိုလေးတွေရဲ့ အသည်းစွဲ Harry Styles": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/ec/ec986352f9da21ccd33045d13f16fb3a82274700.jpg"
+                    ]
+                }
+            },
+            {
+                "အစ်ကိုဖြစ်သူဝေမျှပေးလာတဲ့ မင်းသမီး Park Shin Hye ရဲ့သားလေး မွေးကင်းစတုန်းက ပုံစံလေး": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/8a/8ab3e8ad9c7cb590abe7495c49989a55be850c20.jpg"
+                    ]
+                }
+            },
+            {
+                "တဖြည်းဖြည်းအရွယ်ရောက်လာတဲ့ သားလေးကို ချစ်မဝဖြစ်နေတဲ့ Markis နဲ့ စုစုဝေ": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/0f/0f524ed9d6a74ec193c13d31cefd029c8ce5372b.jpg"
+                    ]
+                }
+            },
+            {
+                "Park Shin Hye နဲ့ ပြန်ပြီးလက်တွဲလုပ်ကိုင်ရမယ့် ခံစားချက်ကို ပြောပြလာတဲ့ Park Hyung Sik": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/fa/fabc5cd4c4df794d70554ad9e5dcc9af6839e03b.jpg"
+                    ]
+                }
+            },
+            {
+                "": {
+                    "paragraphs": [],
+                    "images": []
+                }
+            }
+        ]
+    },
+    "https://myanmarload.com/writer/125": {
+        "title": "Thandar Aung - Myanmarload",
+        "description": "Visit Myanmarload for up-to-the-minute news, breaking news, and feature stories.",
+        "article": []
+    },
+    "https://myanmarload.com/article/108219": {
+        "title": "မြန်မာ့ရုပ်ရှင်အကယ်ဒမီထူးချွန်ဆုပေးပွဲ ကို (၃)နှစ်စာပေါင်းပြီး ကျင်းပသွားမည် - Myanmarload",
+        "description": "အနုပညာရှင်တွေရဲ့ ရည်မှန်းချက်လို့ သတ်မှတ်ချက်ထားကြတဲ့ ........\n(အပြည့်အစုံဖတ်ရန် ပုံ ကိုနှိပ်ပါ)",
+        "article": [
+            {
+                "မြန်မာ့ရုပ်ရှင်အကယ်ဒမီထူးချွန်ဆုပေးပွဲ ကို (၃)နှစ်စာပေါင်းပြီး ကျင်းပသွားမည်": {
+                    "paragraphs": [
+                        "အနုပညာရှင်တွေရဲ့ ရည်မှန်းချက်လို့ သတ်မှတ်ချက်ထားကြတဲ့ ........\n(အပြည့်အစုံဖတ်ရန် ပုံ ကိုနှိပ်ပါ)",
+                        "အနုပညာရှင်တွေအတွက် ဘဝမှတ်တိုင်တစ်ခု လို့ တော်တော်များများက သတ်မှတ်ထားကြတဲ့ မြန်မာ့ရုပ်ရှင်အကယ်ဒမီထူးချွန်ဆုပေးပွဲကြီးကို ကိုဗစ်ကပ်ရောဂါ ကြောင့် (၂၀၁၉) ခုနှစ်မှ စပြီး ရပ်နားထားခဲ့ပြီးနောက် အခုအခါ (၃) နှစ်စာပေါင်းကာ နေပြည်တော်မှာ ပြန်လည်ကျင်းပဖို့လျာထားတယ်လို့ သိရပါတယ်။",
+                        "လက်ရှိမှာ အကယ်ဒမီနဲ့ ပတ်သက်ပြီး ကျင်းပပြုလုပ်ဖို့ တိုင်ပင်ညှိနှိုင်းမှုတွေ လုပ်နေသလို နေပြည်တော်မှာ အကယ်ဒမီပေးပွဲ ပြန်လည်ကျင်းပဖို့ လျာထားကြောင်း ၊ အကယ်ဒမီပေးဖို့အတွက် ကျန်ရှိနေတဲ့ ဇာတ်ကားတွေကို အကဲဖြတ်ဖို့ ကြည့်ရှုနေကြောင်း ၊ ဒီအကယ်ဒမီဆုချီးမြှင့်ပွဲမှာ အရင်က အကဲဖြတ်ဒိုင်တွေရဲ့ (၂၀၁၉) ခုနှစ်က ကြည့်ရှုပြီးသား ရုပ်ရှင်ဇာတ်ကား‌တွေနဲ့  (၂၀၂၀) ခုနှစ် နှင့် (၂၀၂၂) ခုနှစ်က ဇာတ်ကားတွေကို ပူးပေါင်းပြီး သုံးနှစ်စာ ဆုချီးမြှင့်မှာဖြစ်ကြောင်းသိရပါတယ်။",
+                        "အကယ်ဒမီ ထူးချွန်ဆုပေးပွဲအတွက်၂၀၁၉ ခုနှစ်မှာ ရုပ်ရှင်ဇာတ်ကားပေါင်း (၉၇) ကားရှိခဲ့ပြီး အကယ်ဒမီ ဆန်ကာတင်စာရင်းဝင် ဇာတ်ကား (၂၉) ကားကိုလည်း တရားဝင် ထုတ်ပြန်ခဲ့ပြီးဖြစ်တယ်လို့ သိရပြီး (၂၀၂၀) ပြည့်နှစ်နဲ့ (၂၀၂၂) ခုနှစ်အတွက် ရုပ်ရှင်ဇာတ်ကားပေါင်း (၄၁) ကားကို အချိန်သေချာပေးပြီး လက်ရှိရုပ်ရှင်ဇာတ်ကား (၁၆) ကားကို ကြည့်ရှုထားပြီးဖြစ်တယ်လို့သိရပါတယ်။ အဆိုပါအကယ်ဒမီပေးပွဲအတွက်လည်း လက်ရှိမှာ ရွှေကြို လျှောက်ထားသူတွေ လက်ခံနေပြီလို့လည်းသိရပါတယ်။"
+                    ],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/b4/b4cd54c70032802264ce9d67cbe73ea8e7c1fcf2.jpg",
+                        "https://s9.kh1.co/__image/w=650,h=434,q=100/1b/1b8016f3ab00afe0e408e1fbda7129e13da0062b.jpg",
+                        "https://s9.kh1.co/__image/w=650,h=341,q=100/3d/3d3d6ec9f2651d8eed028c51070b15cd3f785fee.jpg",
+                        "https://s9.kh1.co/__image/w=650,h=561,q=100/f6/f6fd262d4d15fead1fe494aea0e4ebf8fc17990b.jpg"
+                    ]
+                }
+            },
+            {
+                "ကမ္ဘာ့ဆွဲဆောင်မှုအရှိဆုံး အပြုံးပိုင်ရှင်ဖြစ်လာတဲ့ မိန်းမပျိုလေးတွေရဲ့ အသည်းစွဲ Harry Styles": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/ec/ec986352f9da21ccd33045d13f16fb3a82274700.jpg"
+                    ]
+                }
+            },
+            {
+                "အစ်ကိုဖြစ်သူဝေမျှပေးလာတဲ့ မင်းသမီး Park Shin Hye ရဲ့သားလေး မွေးကင်းစတုန်းက ပုံစံလေး": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/8a/8ab3e8ad9c7cb590abe7495c49989a55be850c20.jpg"
+                    ]
+                }
+            },
+            {
+                "တဖြည်းဖြည်းအရွယ်ရောက်လာတဲ့ သားလေးကို ချစ်မဝဖြစ်နေတဲ့ Markis နဲ့ စုစုဝေ": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/0f/0f524ed9d6a74ec193c13d31cefd029c8ce5372b.jpg"
+                    ]
+                }
+            },
+            {
+                "Park Shin Hye နဲ့ ပြန်ပြီးလက်တွဲလုပ်ကိုင်ရမယ့် ခံစားချက်ကို ပြောပြလာတဲ့ Park Hyung Sik": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/fa/fabc5cd4c4df794d70554ad9e5dcc9af6839e03b.jpg"
+                    ]
+                }
+            },
+            {
+                "": {
+                    "paragraphs": [],
+                    "images": []
+                }
+            }
+        ]
+    },
+    "https://myanmarload.com/article/108210": {
+        "title": "Michelle Yeoh ရဲ့ အောင်မြင်မှုကို ခမ်းခမ်းနားနားဂုဏ်ပြုပေးခဲ့တဲ့ မလေးရှားပြည်သူများ... - Myanmarload",
+        "description": "တစ်မြို့လုံးသူ့ပုံပဲ...",
+        "article": [
+            {
+                "Michelle Yeoh ရဲ့ အောင်မြင်မှုကို ခမ်းခမ်းနားနားဂုဏ်ပြုပေးခဲ့တဲ့ မလေးရှားပြည်သူများ...": {
+                    "paragraphs": [
+                        "တစ်မြို့လုံးသူ့ပုံပဲ...",
+                        "မလေးရှားမင်းသမီး Michelle Yeoh ဟာ အာရှရဲ့ပထမဆုံး အော်စကာအမျိုးသမီးဇာတ်ပို့ဆုရှင်ဖြစ်လာခဲ့ပါတယ်။ ဒီဆုကို ရယူပြီး အမျိုးသမီးတွေအတွက် အားပေးစကားကိုလည်းပြောခဲ့ပါတယ်။ \"အမျိုးသီးတို့ နင်တို့ကိုဘယ်သူမှ မပြောရပါစေနဲ့။ နင်တို့ကို နင်တို့ပိုင်ပါတယ်။ ဘယ်တော့မှအရှုံးမပေးပါနဲ့...\" လို့ အားပေးစကားပြောခဲ့ပါတယ်။",
+                        "သူမရဲ့အောင်မြင်မှုကို မလေးရှားပရိသတ်တွေဟာ နည်းလမ်းမျိုးစုံနဲ့ဂုဏ်ပြုပေးခဲ့ကြပါတယ်။ Kuala Lumpur မှာရှိတဲ့ Michelle ရဲ့ မိသားစုနှင့် ချစ်ခင်ရသူတွေဟာ Dadi Cinema မှာ သူမကို ဂုဏ်ပြုတဲ့ပါတီတစ်ခု စီစဥ်ခဲ့ကြပါတယ်။ ဒီပါတီမှာ မလေးရှားနာမည်ကြီးမင်းသမီး Nasha Aziz နှင့် Sangeeta Krishnasamy တို့အပြင် အခြားအနုပညာရှင်တွေလည်းတက်ရောက်ခဲ့ကြပါတယ်။",
+                        "မလေးရှားတစ်မြို့လုံးမှာရှိတဲ့ Billboards ကြီးတွေအားလုံးမှာလည်း သူမရဲ့ပုံတွေကလွှမ်းမိုးခဲ့ပါတယ်။ ဒါတင်မကသေးဘဲ မလေးရှားရဲ့နာမည်ကြီး Biscuit brand တစ်ခုဟာ သူတို့ Brand logo ကို  Michelle ပုံနဲ့ပြောင်းပြီး \"Congratulations, Tan Sri Michelle Yeoh, Malaysia is proud of you\" ဆိုတဲ့ စာတန်းနဲ့ သူမရဲ့အောင်မြင်မှုကို အထူးဂုဏ်ပြုပေးခဲ့ပါတယ်။",
+                        "Michelle Yeoh ရဲ့ အောင်မြင်မှုကတော့ မလေးရှားနိုင်ငံသားတွေအတွက်သာမက အာရှတစ်ဝှမ်းလုံးအတွက်ဂုဏ်ယူစရာဖြစ်ခဲ့ပါတယ်။ "
+                    ],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/ff/ff98cb0d40eeb14171b7202b1d35d67d416297af.jpg",
+                        "https://s9.kh1.co/__image/w=650,h=367,q=100/a8/a8ca7e31a97b50ecd0ee573a14e73ef8f955a4be.jpg",
+                        "https://s9.kh1.co/__image/w=650,h=809,q=100/4d/4d1c1651f246a674ce3e2601b979f51d8a8119a1.jpg",
+                        "https://s9.kh1.co/__image/w=650,h=650,q=100/7d/7d5937326f8a5001474db36e2526531d83605868.jpg",
+                        "https://s9.kh1.co/__image/w=650,h=367,q=100/8c/8c6fb3c9c186ac307d3de25683f67df8b1f7f3c3.jpg"
+                    ]
+                }
+            },
+            {
+                "ကမ္ဘာ့ဆွဲဆောင်မှုအရှိဆုံး အပြုံးပိုင်ရှင်ဖြစ်လာတဲ့ မိန်းမပျိုလေးတွေရဲ့ အသည်းစွဲ Harry Styles": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/ec/ec986352f9da21ccd33045d13f16fb3a82274700.jpg"
+                    ]
+                }
+            },
+            {
+                "အစ်ကိုဖြစ်သူဝေမျှပေးလာတဲ့ မင်းသမီး Park Shin Hye ရဲ့သားလေး မွေးကင်းစတုန်းက ပုံစံလေး": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/8a/8ab3e8ad9c7cb590abe7495c49989a55be850c20.jpg"
+                    ]
+                }
+            },
+            {
+                "တဖြည်းဖြည်းအရွယ်ရောက်လာတဲ့ သားလေးကို ချစ်မဝဖြစ်နေတဲ့ Markis နဲ့ စုစုဝေ": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/0f/0f524ed9d6a74ec193c13d31cefd029c8ce5372b.jpg"
+                    ]
+                }
+            },
+            {
+                "Park Shin Hye နဲ့ ပြန်ပြီးလက်တွဲလုပ်ကိုင်ရမယ့် ခံစားချက်ကို ပြောပြလာတဲ့ Park Hyung Sik": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/fa/fabc5cd4c4df794d70554ad9e5dcc9af6839e03b.jpg"
+                    ]
+                }
+            },
+            {
+                "": {
+                    "paragraphs": [],
+                    "images": []
+                }
+            }
+        ]
+    },
+    "https://myanmarload.com/writer/133": {
+        "title": "Van Ngun Lian - Myanmarload",
+        "description": "Visit Myanmarload for up-to-the-minute news, breaking news, and feature stories.",
+        "article": []
+    },
+    "https://myanmarload.com/article/108212": {
+        "title": "ဒီကနေ့မှာ အသက် (၅၈)နှစ်ပြည့်သွားခဲ့ပြီဖြစ်တဲ့ ဘောလိဝုဒ် မင်းသားကြီး အမီရာခန်း - Myanmarload",
+        "description": "ပရိသတ်အချစ်တော် ဘောလိဝုဒ်ကြယ်ပွင့် အမီရာခန်း ကတော့......\n(အပြည့်အစုံဖတ်ရန် ပုံ ကိုနှိပ်ပါ)",
+        "article": [
+            {
+                "ဒီကနေ့မှာ အသက် (၅၈)နှစ်ပြည့်သွားခဲ့ပြီဖြစ်တဲ့ ဘောလိဝုဒ် မင်းသားကြီး အမီရာခန်း": {
+                    "paragraphs": [
+                        "ပရိသတ်အချစ်တော် ဘောလိဝုဒ်ကြယ်ပွင့် အမီရာခန်း ကတော့......\n(အပြည့်အစုံဖတ်ရန် ပုံ ကိုနှိပ်ပါ)",
+                        "သရုပ်ဆောင်ပီပြင်လွန်းတာကြောင့် ဘောလိဝုဒ်လောက မှာတင်သာမက တစ်ကမ္ဘာလုံး က ပရိသတ်တွေတိုင်းက ချစ်ခင်အားပေးရသူ ၊ ဘောလိဝုဒ်လောက ရဲ့ ထိပ်တန်းမင်းသားတစ်ဦး ဖြစ်ပြီး နာမည်ကြီး ခန်း (၃) ခန်းထဲ ပါဝင်တဲ့ အနုပညာရှင်ကတော့ အားလုံးကချစ်ကြတဲ့ အမီရာခန်း ပါပဲ။",
+                        "အမီရာခန်း ဟာ ရုပ်ရှင်နဲ့ပတ်သက်လာရင် ထူးချွန်လွန်းတာကြောင့် မင်းသား၊ ဒါရိုက်တာ၊ ထုတ်လုပ်သူ  သုံးနေရာလုံးကနေ တာဝန်ယူလုပ်ကိုင်ခဲ့တဲ့အပြင် အဆိုပါ သုံးနေရာလုံးကနေပဲ filmfare အကယ်ဒမီ (၉) ဆုရခဲ့သူတစ်ဦးဖြစ်ပါတယ်။ သို့ပေမယ့် ပကာသန ကို မမက်မောတဲ့ ခန်း ဟာ ပထမဆုံး ဆုတစ်ခုကိုသာ ကိုယ်တိုင်တက်ယူခဲ့ပြီး ကျန်တဲ့ (၈) ဆုကို ကိုယ်တိုင်တက်မယူတဲ့ အပြင် အိမ်လာပို့လည်း လက်မခံပဲ သူ့မန်နေဂျာဖြစ်သူဆီကိုသာ ရသမျှဆုတွေ ပို့ထားတဲ့ အနုပညာရှင်တစ်ဦးဖြစ်ပါတယ်",
+                        "\"ခန်း\" တွေထဲ စီနီယာအကျဆုံး မင်းသားဖြစ်တဲ့ အမီရာခန်းကတော့ ဒီကနေ့မှာ အသက်(၅၈)နှစ်ပြည့်သွားခဲ့ပြီဖြစ်ပါတယ်။ အသက် နဲ့ မလိုက်လောက်အောင် နုပျိုနေတဲ့ အမီရာခန်းတစ်ယောက် ဒီ့ထက်ပိုကောင်းတဲ့အနုပညာတွေဖန်တီးရင်း ပရိသတ်ထံ ချပြနိုင်ပါစေ လို့ ဆုမွန်ကောင်းတောင်းပေးရင်း Happy Birthday လို့ ပြောကြားလိုက်ရပါတယ်။ "
+                    ],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/96/960a3fd8a2037d8d36322a17f95e45d57a7e66be.jpg",
+                        "https://s9.kh1.co/__image/w=650,h=396,q=100/0a/0aff889421c938dc9e8fee5237679ce4813859b1.jpg",
+                        "https://s9.kh1.co/__image/w=533,h=800,q=100/3f/3fb88a7e786bcbf0202d925c71cb322020ad52db.jpg",
+                        "https://s9.kh1.co/__image/w=600,h=411,q=100/4c/4ca8d63fd4b4545f2e6b26c65ccd5fac72553e0a.jpg",
+                        "https://s9.kh1.co/__image/w=600,h=450,q=100/b0/b05fdbebabc877aa84e122b957cb77123efdb68e.jpg",
+                        "https://s9.kh1.co/__image/w=600,h=600,q=100/6e/6e5254e1c6a1c171747be2986388b0d833d85847.jpg",
+                        "https://s9.kh1.co/__image/w=650,h=414,q=100/d9/d96aa1d7da8a4ee3eafbcf40bddff3c42a929773.jpg",
+                        "https://s9.kh1.co/__image/w=550,h=775,q=100/e9/e99532581f6fe59d57ffb579b7a96df3c16f1a5a.jpg"
+                    ]
+                }
+            },
+            {
+                "ကမ္ဘာ့ဆွဲဆောင်မှုအရှိဆုံး အပြုံးပိုင်ရှင်ဖြစ်လာတဲ့ မိန်းမပျိုလေးတွေရဲ့ အသည်းစွဲ Harry Styles": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/ec/ec986352f9da21ccd33045d13f16fb3a82274700.jpg"
+                    ]
+                }
+            },
+            {
+                "အစ်ကိုဖြစ်သူဝေမျှပေးလာတဲ့ မင်းသမီး Park Shin Hye ရဲ့သားလေး မွေးကင်းစတုန်းက ပုံစံလေး": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/8a/8ab3e8ad9c7cb590abe7495c49989a55be850c20.jpg"
+                    ]
+                }
+            },
+            {
+                "တဖြည်းဖြည်းအရွယ်ရောက်လာတဲ့ သားလေးကို ချစ်မဝဖြစ်နေတဲ့ Markis နဲ့ စုစုဝေ": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/0f/0f524ed9d6a74ec193c13d31cefd029c8ce5372b.jpg"
+                    ]
+                }
+            },
+            {
+                "Park Shin Hye နဲ့ ပြန်ပြီးလက်တွဲလုပ်ကိုင်ရမယ့် ခံစားချက်ကို ပြောပြလာတဲ့ Park Hyung Sik": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/fa/fabc5cd4c4df794d70554ad9e5dcc9af6839e03b.jpg"
+                    ]
+                }
+            },
+            {
+                "": {
+                    "paragraphs": [],
+                    "images": []
+                }
+            }
+        ]
+    },
+    "https://myanmarload.com/article/108034": {
+        "title": "Chanel event မှာချစ်ချစ်ခင်ခင်နဲ့အတူတွဲ တွေ့လိုက်ရတဲ့ Park Seo Joon နဲ့ Jennie - Myanmarload",
+        "description": "ချစ်စရာလေးတွေ",
+        "article": [
+            {
+                "Chanel event မှာချစ်ချစ်ခင်ခင်နဲ့အတူတွဲ တွေ့လိုက်ရတဲ့ Park Seo Joon နဲ့ Jennie": {
+                    "paragraphs": [
+                        "ချစ်စရာလေးတွေ",
+                        "တောင်ကိုရီးယားမင်းသား Park Seo Joon  နဲ့ Blackpink အဆိုတော်အဖွဲ့ဝင်တစ်ယောက်ဖြစ်တဲ့ Jennie တို့ကို မကြာသေးမီက ပါရီမြို့မှာ ကျင်းပပြုလုပ်ခဲ့တဲ့ CHANEL Fall-Winter 23/24  မှာ အတူတွဲပြီး တွေ့ခဲ့ရပါတယ်။ ",
+                        "သူတို့နှစ်ဦးက အခုမှ တွဲတွေ့ဖူးပေမယ့် ရင်းနှီးပြီးသားမိတ်ဆွေတွေလိုမျိုး ချစ်ချစ်ခင်ခင်ဖြစ်နေတာကြောင့်ပရိသတ်တွေက များစွာကြည်နူး သဘာကျနေကြပါတယ်။ ",
+                        "Blackpink အဖွဲ့ဝင် Jennie ဟာဆိုရင် မကြာသေးမီက လေ့ကျင့်ခန်းလုပ်ရင်းထိခိုက် ဒဏ်ရာ ရထားတာဖြစ်ပါတယ်။ မျက်နှာမှာ ဒဏ်ရာ ကပ် စတစ်ကာလေး အုပ်ထားတာတောင် Jennie လေးရဲ့ အလှတရားက ထင်ထင်ရှားရှားနဲ့ မိမိုက်လွန်းနေပါတယ်။ ",
+                        "Park Seo Joon ဟာဆိုရင်လည်း ခန့်ခန့်ညားညားနဲ့ချောမောလွန်းနေပါတယ်။ Jennie နဲ့ Park Seo Joon နှစ်ယောက်ကို အတူတွဲမြင်လိုက်ရတဲ့ ပုံရိပ်ဟာ ချက်ချင်းဆိုသလို လူမှုကွန်ရက်စာမျက်နှာပေါ်မှာ ပြန့်နှံ့နေပြီး လူစိတ်ဝင်စားမှု မြင့်တက်လျက်ရှိပါတယ်။ "
+                    ],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/ca/ca3a3e5cb3be019105b8f7edbdf1dbddf01fd5bb.jpeg",
+                        "https://s9.kh1.co/__image/w=650,h=764,q=100/82/82c41b87beb3e0d8687ddf3fd225fd3d7c384ac4.jpeg",
+                        "https://s9.kh1.co/__image/w=650,h=791,q=100/a0/a0967223e50f6165854a007dd3b73ee3bb438f47.jpeg",
+                        "https://s9.kh1.co/__image/w=650,h=650,q=100/f7/f7eae419f1c93ab31ac2be283ea1a1b6959b44fd.jpeg",
+                        "https://s9.kh1.co/__image/w=650,h=650,q=100/ba/bacfeab4c6243669946acf0d6d11b42e35bd3d31.jpeg",
+                        "https://s9.kh1.co/__image/w=596,h=960,q=100/c7/c7f6bf8f48648128e1471710dbf4beab42fe2dae.jpeg"
+                    ]
+                }
+            },
+            {
+                "ကမ္ဘာ့ဆွဲဆောင်မှုအရှိဆုံး အပြုံးပိုင်ရှင်ဖြစ်လာတဲ့ မိန်းမပျိုလေးတွေရဲ့ အသည်းစွဲ Harry Styles": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/ec/ec986352f9da21ccd33045d13f16fb3a82274700.jpg"
+                    ]
+                }
+            },
+            {
+                "အစ်ကိုဖြစ်သူဝေမျှပေးလာတဲ့ မင်းသမီး Park Shin Hye ရဲ့သားလေး မွေးကင်းစတုန်းက ပုံစံလေး": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/8a/8ab3e8ad9c7cb590abe7495c49989a55be850c20.jpg"
+                    ]
+                }
+            },
+            {
+                "တဖြည်းဖြည်းအရွယ်ရောက်လာတဲ့ သားလေးကို ချစ်မဝဖြစ်နေတဲ့ Markis နဲ့ စုစုဝေ": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/0f/0f524ed9d6a74ec193c13d31cefd029c8ce5372b.jpg"
+                    ]
+                }
+            },
+            {
+                "Park Shin Hye နဲ့ ပြန်ပြီးလက်တွဲလုပ်ကိုင်ရမယ့် ခံစားချက်ကို ပြောပြလာတဲ့ Park Hyung Sik": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/fa/fabc5cd4c4df794d70554ad9e5dcc9af6839e03b.jpg"
+                    ]
+                }
+            },
+            {
+                "": {
+                    "paragraphs": [],
+                    "images": []
+                }
+            }
+        ]
+    },
+    "https://myanmarload.com/article/108077": {
+        "title": "အသက်(၅)နှစ်ငယ်တဲ့မောင်လေး Tyga နဲ့ တရားဝင်တွဲနေပြီဖြစ်တဲ့ Avril Lavigne - Myanmarload",
+        "description": "ရည်းစားဟောင်းဖြစ်သူ Mod Sunနဲ့ လမ်းခွဲပြီးမကြာခင်မှာပဲ......\n(အပြည့်အစုံဖတ်ရန် ပုံ ကိုနှိပ်ပါ)",
+        "article": [
+            {
+                "အသက်(၅)နှစ်ငယ်တဲ့မောင်လေး Tyga နဲ့ တရားဝင်တွဲနေပြီဖြစ်တဲ့ Avril Lavigne": {
+                    "paragraphs": [
+                        "ရည်းစားဟောင်းဖြစ်သူ Mod Sunနဲ့ လမ်းခွဲပြီးမကြာခင်မှာပဲ......\n(အပြည့်အစုံဖတ်ရန် ပုံ ကိုနှိပ်ပါ)",
+                        "90’s Born အများစုရဲ့ ငယ်ချစ်ဦး အဆိုတော်မလေးလို့ဆိုလာရင်တော့ Avril Lavigne ကိုပဲရည်ညွှန်းရမှာဖြစ်ပါတယ်။သူမရဲ့ ပြောင်မြောက်တဲ့ အနုပညာတွေကြောင့် ပရိတ်သတ်တွေရဲ့ ချစ်ခင်အားပေးမှုကို ရရှိခဲ့တဲ့အပြင် သူမရဲ့ စူးရှတဲ့အကြည့်နဲ့ အသွင်အပြင်တွေကြောင့်လည်း ပရိတ်သတ်အားလုံးရဲ့ အချစ်ပိုခြင်းကို ခံခဲ့ရသူတစ်ဦးဖြစ်ပါတယ်။",
+                        "သူမဟာ (၁၉၉၉) ခုနှစ် မှ စတင်ကာ တေးသီချင်းများကို ဖန်တီးခဲ့တာဖြစ်ပြီး သူမရဲ့ Complicated , When You’re gone , Girlfriend , Wish you were here , I’m with you အစရှိတဲ့ သီချင်းတွေဟာ တစ်ခေတ်တစ်ခါတွင်သာမက လက်ရှိအချိန်အထိပါ နားထောင်ရတာ ရိုးသွားတယ်ဆိုတာမရှိရလေအောင် ရေပန်းစားအောင်မြင်နေတုန်းပဲဖြစ်ပါတယ်။သူမဟာ အနုပညာလှုပ်ရှားမှုများအဖြစ် တေးသီချင်းများရေးသားဖန်တီးခြင်း ၊ တေးသီချင်းမျာ သီဆိုခြင်း  နှင့် သရုပ်ဆောင်ခြင်း အစရှိတာတွေကို လုပ်ဆောင်ခဲ့တာဖြစ်ပါတယ်။",
+                        "ပရိသတ်တွေ သူမရဲ့ အနုပညာကိုသာမက သူမရဲ့အချစ်ရေးကိုလည်းအမြဲစောင့်ကြည့်လေ့ရှိကြပါတယ်။ အခုအခါ အသက်(၃၈)နှစ်အရွယ်ရှိ Avril Lavigne တစ်ယောက်ဟာ Paris Fashion Week မှာ သူ့ထက်(၅)နှစ်ငယ်တဲ့ (၃၃)နှစ်အရွယ် Rap အဆိုတော် Tyga နဲ့ အနမ်းမိုးတွေရွာရင်း သူတို့နှစ်ယောက်ရဲ့ Relationship ကို တရားဝင်ချပြလိုက်ပြီဖြစ်ပါတယ်။"
+                    ],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/ee/ee36ba5ae9db1ee0b971f2174607701a711f3216.jpg",
+                        "https://s9.kh1.co/__image/w=650,h=813,q=100/c1/c190bace1abd6781614e9d27dfc9081ebf6452a4.jpg",
+                        "https://s9.kh1.co/__image/w=650,h=434,q=100/da/dae3768a08612ccdaef0ea3502eaf2166c6df8db.jpg",
+                        "https://s9.kh1.co/__image/w=650,h=650,q=100/d7/d7f4647fcbee756ca506a988389ee963c3761bb7.jpg",
+                        "https://s9.kh1.co/__image/w=650,h=813,q=100/96/962d4656ac6fd011bf4eea6e785acebb4356cd57.jpg",
+                        "https://s9.kh1.co/__image/w=650,h=790,q=100/cb/cbe8bcbb96eb4608af35eb49816c8f1e5d7a2365.jpg",
+                        "https://s9.kh1.co/__image/w=650,h=446,q=100/ae/ae5167bc75967ee15a1d4a87c973da63e2f2c107.jpg",
+                        "https://s9.kh1.co/__image/w=650,h=889,q=100/6e/6e942c6b9ddf12d571a34e508315709098678fb9.jpg",
+                        "https://s9.kh1.co/__image/w=650,h=365,q=100/15/15450d1848abf2778e96f7cb933b6d8cff1d4d18.jpg",
+                        "https://s9.kh1.co/__image/w=634,h=951,q=100/63/632369057b73d834b2a7648d303ad1d61b3b3922.jpg"
+                    ]
+                }
+            },
+            {
+                "ကမ္ဘာ့ဆွဲဆောင်မှုအရှိဆုံး အပြုံးပိုင်ရှင်ဖြစ်လာတဲ့ မိန်းမပျိုလေးတွေရဲ့ အသည်းစွဲ Harry Styles": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/ec/ec986352f9da21ccd33045d13f16fb3a82274700.jpg"
+                    ]
+                }
+            },
+            {
+                "အစ်ကိုဖြစ်သူဝေမျှပေးလာတဲ့ မင်းသမီး Park Shin Hye ရဲ့သားလေး မွေးကင်းစတုန်းက ပုံစံလေး": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/8a/8ab3e8ad9c7cb590abe7495c49989a55be850c20.jpg"
+                    ]
+                }
+            },
+            {
+                "တဖြည်းဖြည်းအရွယ်ရောက်လာတဲ့ သားလေးကို ချစ်မဝဖြစ်နေတဲ့ Markis နဲ့ စုစုဝေ": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/0f/0f524ed9d6a74ec193c13d31cefd029c8ce5372b.jpg"
+                    ]
+                }
+            },
+            {
+                "Park Shin Hye နဲ့ ပြန်ပြီးလက်တွဲလုပ်ကိုင်ရမယ့် ခံစားချက်ကို ပြောပြလာတဲ့ Park Hyung Sik": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/fa/fabc5cd4c4df794d70554ad9e5dcc9af6839e03b.jpg"
+                    ]
+                }
+            },
+            {
+                "": {
+                    "paragraphs": [],
+                    "images": []
+                }
+            }
+        ]
+    },
+    "https://myanmarload.com/article/108131": {
+        "title": "ကမ္ဘာ့ထိပ်တန်း ထူးခြားတဲ့ ရှေးဟောင်းနေရာ ၃ ခု - Myanmarload",
+        "description": "ကမ္ဘာ့ထိပ်တန်း ထူးခြားတဲ့ ရှေးဟောင်းနေရာ ၃ ခု",
+        "article": [
+            {
+                "ကမ္ဘာ့ထိပ်တန်း ထူးခြားတဲ့ ရှေးဟောင်းနေရာ ၃ ခု": {
+                    "paragraphs": [
+                        "ကမ္ဘာ့ထိပ်တန်း ထူးခြားတဲ့ ရှေးဟောင်းနေရာ ၃ ခု",
+                        "ရှေးခေတ်ယဉ်ကျေးမှုများကို\nထိုးထွင်းသိမြင်နိုင်တဲ့ အံ့ဖွယ်နေရာတွေကို ခဏလောက် သွားရောက်လည်ပတ်ကြည့်ရအောင်။ ဒီတစ်ခါမှာတော့\nကမ္ဘာလှည်ခရီးသွားများကြားမှာ အတော်လေးကို နာမည်ကြီးခဲ့တဲ့ ကမ္ဘာ့ထိပ်တန်းထူးခြားတဲ့\nနေရာ ၃ ခု အကြောင်းကိုဖော်ပြပေးသွားမှာပါ။",
+                        "(၁) San\nJuan Teotihuacan (မက္ကဆီကို)",
+                        "ဒါကတော့ မက္ကဆီကိုမှာရှိတဲ့\nပိရမစ်ပုံစံတူ Teotihuacán ရှေးဟောင်းမြို့တော်ကြီးဖြစ်ပါတယ်။\nဒီနေရာမှာ မယုံနိုင်လောက်တဲ့ ကမ္ဘာ့ရှေးအကျဆုံး ဗိသုကာလက်ရာများကို တွေ့ရပြီး မြို့တော်ကို\nဘီစီ ၁၀၀ ဝန်းကျင်ခန့်က တည်ဆောက်ခဲ့တယ်လို့ဆိုပါတယ်။ အအောက်အုံအပေါ်ကိုတက်ရောက်နိုင်အောင်လည်း\nလှေကားထစ်များထည့်သွင်းထားပြီး အပေါ်ရောက်သည်နှင့် လှပတဲ့မြင်ကွင်းများကိုပါ မြင်တွေ့ရမှာ\nဖြစ်ပါတယ်။ အဆိုပါ မြို့တော်ဟာ ကြီးမားတဲ့ ရှေးယဉ်ကျေးမှုများနှင့် သမိုင်းဆိုရာ အရေးပါမှုကို\nထင်ဟက်ပေါ်လွန်နေတာကြောင့် လာရောက်လေ့လာလည်ပတ်သူတွေကြားမှာ ဆွဲဆောင်ထားရာ နေရာတစ်ခုလည်း\nဖြစ်ပါတယ်။",
+                        "(၂) Nazca\n(ပီရူး)",
+                        "Nazca ဟာ\n၁၉၃၀ ခုနှစ်က ကျယ်ဝန်းလှတဲ့ ပီရူးနိုင်ငံရှိ ထင်ရှားတဲ့ သဲကန္တာရအလယ်မှာ တွေ့ရှိခဲ့တာ\nဖြစ်ပါတယ်။ ဒါက ထူးဆန်းတဲ့ ရှေးဟောင်းဂျီဩမေတြီပုံစံများကို သဲထဲမှာ ထွင်းထုထားတာပါ။\nရုပ်ပုံများစုကတော့ မျောက်များ ၊  pelicans\nနှင့် ဇီးကွက် စတဲ့ တိရစ္ဆာန်များဖြစ်ပြီး အချို့မှာ အမြင့် ၁၀၀ မီတာရှိတဲ့ လူပုံသဏ္ဍာန်ထွင်းထုထားတာ\nဖြစ်ပါတယ်။ အဆိုပါ ရုပ်ပုံတွေဖန်တီးမှုဟာ သဘာဝလွန်သီအိုရီများဆီကို ဦးတည်သွားတာကြောင့်\nပညာရှင်တွေ ခေါင်းရှုပ်စေခဲ့ပါတယ်။ ပညာရှင်များကတော့ ဒီဖန်တီးမှုတွေဟာ ဘီစီ ၅၀၀ မှာ\nအေဒီ ၅၀၀ အကြား ရှေးဟောင်းယဉ်ကျေးမှု တစ်ခုမှဖန်တီးခဲ့ခြင်းဖြစ်တယ်လို့ ဆိုပါတယ်။",
+                        "(၃) Korinthos\n(ဂရိ)",
+                        "ဒီနေရာက ရှေးခေတ်\nKórinthos\nရှိ ထူးထူးခြားခြား မပျက်မစီးရှိသော ရှေးဟောင်း ဘုရားကျောင်း တစ်ခုဖြစ်ပါတယ်။ ဒီဘုရားကျောင်းကြီးဟာ\nဘီစီ ၅၀၀၀ လောက်တည်းက ရှိခဲ့တာဖြစ်ပြီး ရှေးဟောင်း အမွေအနှစ်များ တည်ရှိရာ နေရာလည်း\nဖြစ်ပါတယ်။ အရင်က ဒီဘုရားကျောင်းရှိရာ Kórinthos ဒေသကို ဂရိ၊ ရောမနှင့် ဘိုင်ဇန်တိုင်း\nအင်ပါယာများက အုပ်ချုပ်ခဲ့တာဖြစ်ပါတယ်။ လုံးဝမပျက်စီးသေးတဲ့ ဘုရားကျောင်းကြီးက Apollo\nလို့အမည်ရပါတယ်။ လက်ရှိမှာတော့ ကမ္ဘာလှည့်ခရီးသွားတွေကြားမှာ ဆွဲဆောင်ထားရာ နေရာလည်း\nဖြစ်ပါတယ်။ ",
+                        "သတင်း အရင်းအမြစ်៖ Source - booking"
+                    ],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/19/19d0d9b7f73ce4c24c65b47f0a01b4f17bb4b0f1.jpg",
+                        "https://s9.kh1.co/__image/w=650,h=488,q=100/c0/c0f54b498fc2cadb878d06e1365e41533441eef7.jpg",
+                        "https://s9.kh1.co/__image/w=650,h=488,q=100/d4/d49870bca8c09066ecb7a134890fe196bf903c15.jpg",
+                        "https://s9.kh1.co/__image/w=650,h=488,q=100/6b/6bb912010ffb204b5fb41ca4b57fd4f044cd7d0d.jpg"
+                    ]
+                }
+            },
+            {
+                "တစ်ခါဥရင် ဥပေါင်း ၂၈၀၀ ထိ ဥတတ်ကြတဲ့ ရှားပါးဖားမျိုးစိတ်": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/9f/9fd080d9800b3c42ca936f27894de85d7ef9ca2e.jpg"
+                    ]
+                }
+            },
+            {
+                "ဆစ်ဒနီမြို့ရဲ့သမိုင်းကြောင်းကို အမှတ်ရစေတဲ့ ရှေးဟောင်းသင်္ချိုင်း": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/fb/fb3817bac8cd3f5f2c839ce62ad70e8584a0c35f.jpg"
+                    ]
+                }
+            },
+            {
+                "သင်မသိသေးတဲ့ အီးလ်မျူး နှင့် ငှက်ကုလားအုတ်တို့ရဲ့ အဓိကကွာခြားချက်များ": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/28/2878e521efb560fd52e2b79f03e9eec7a40d5054.png"
+                    ]
+                }
+            },
+            {
+                "ကုန်နေရေနေငါး ၂၃ မျိုးထဲက တစ်‌မျိုးဖြစ်တဲ့ Mudskipper ငါး": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/aa/aa4f2444b5dc48977807568947cac31a3c26269c.jpg"
+                    ]
+                }
+            },
+            {
+                "": {
+                    "paragraphs": [],
+                    "images": []
+                }
+            }
+        ]
+    },
+    "https://myanmarload.com/writer/113": {
+        "title": "Zin Myo - Myanmarload",
+        "description": "Visit Myanmarload for up-to-the-minute news, breaking news, and feature stories.",
+        "article": []
+    },
+    "https://myanmarload.com/article/108177": {
+        "title": "ပရိသတ်တွေမတွေ့ဖူးသေးတဲ့ Hyun Bin နဲ့ Goo Hye Sun တို့ရဲ့ ရှားပါးစုံတွဲဓာတ်ပုံများ - Myanmarload",
+        "description": "မကြာသေးခင်က အင်တာနက်တစ်ခွင်မှာ လွန်ခဲ့တဲ့ (၁၆) နှစ်လောက်က Hyun Bin နဲ့ Goo Hye Sun တို့ရဲ့....",
+        "article": [
+            {
+                "ပရိသတ်တွေမတွေ့ဖူးသေးတဲ့ Hyun Bin နဲ့ Goo Hye Sun တို့ရဲ့ ရှားပါးစုံတွဲဓာတ်ပုံများ": {
+                    "paragraphs": [
+                        "မကြာသေးခင်က အင်တာနက်တစ်ခွင်မှာ လွန်ခဲ့တဲ့ (၁၆) နှစ်လောက်က Hyun Bin နဲ့ Goo Hye Sun တို့ရဲ့....",
+                        "မကြာသေးခင်က\nတောင်ကိုရီးယားနာမည်ကြီးတွေဖြစ်ကြတဲ့ Goo Hye Sun နဲ့ Hyun Bin တို့ရဲ့ လွန်ခဲ့တဲ့\n(၁၆) နှစ်က ပုံတွေဟာ ပရိသတ်တွေကြားမှာ ပျံ့နှံ့လျက်ရှိပါတယ်။ထိုဓာတ်ပုံကိုကြည့်ပြီး\nပရိသတ်တွေကလည်း အနုပညာမောင်နှမနှစ်ယောက်ရဲ့ ငယ်ရွယ်မှုကို တွေ့ခဲ့ရပါတယ်။",
+                        "Hyun Bin\nနဲ့ Goo Hye Sun ဟာ (၂၀၀၇) ခုနှစ်တုန်းက  Goo Hye Sun နဲ့  ကြော်ငြာရိုက်ကူးခဲ့ပြီး သူတို့နှစ်ယောက်ဟာ ထိုအချိန်က\nလူသစ်တွေသာ ဖြစ်ကြသေးပြီး လိုက်ဖက်တဲ့ ကြယ်ပွင့်တွေ ဖြစ်ခဲ့ကြပါတယ်။",
+                        "စိတ်ဝင်စားစရာကောင်းတာက\nသူတို့နှစ်ယောက်စလုံးဟာ သူတို့ရဲ့ ပါးချိုင့်အပြုံးလေးတွေနဲ့ ပရိသတ်တွေရဲ့ အာရုံကိုဖမ်းစားထားခဲ့ကြပါတယ်။\nမမျှော်လင့်ထားတဲ့ အံ့သြစရာကောင်းတဲ့\nသူတို့နှစ်ယောက်ရဲ့ ပူးပေါင်းမှုကိုလည်း အင်တာနက်အသုံးပြုသူတွေက အံ့သြနေခဲ့ကြပါတယ်။",
+                        "(၁၆) နှစ်ကြာပြီးနောက်\nHyun Bin ဟာ Son Ye Jin နဲ့ ပျော်ရွှင်စရာကောင်းတဲ့ အိမ်ထောင်ရေးတစ်ခုကို ထူထောင်နိုင်ခဲ့ပြီး\nသူ့တို့နှစ်ယောက်ရဲ့သားဦးလေးကို ပြီးခဲ့တဲ့နှစ် နိုဝင်ဘာလက ပိုင်ဆိုင်ခဲ့ပါတယ်။\nGoo Hye Son ကတော့ အိမ်ထောင်သက် (၄) နှစ်အကြာ 2020 မှာ ခင်ပွန်းဖြစ်သူ Ahn Jae\nHyun နဲ့ ကွာရှင်းခဲ့ပြီး သူမရဲ့ အချစ်ရေးဘဝဟာ အနည်းငယ် ကြမ်းတမ်းခဲ့ပါတယ်။",
+                        "Photos: Credit"
+                    ],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/5e/5e6d8f99af3ba915d379bcf638e06e5a8b142f0f.jpg",
+                        "https://s9.kh1.co/__image/w=650,h=342,q=100/fa/fa22b34f8cb76988ad9ce150ca9b80caae6721fb.jpg",
+                        "https://s9.kh1.co/__image/w=650,h=406,q=100/09/097e4a0a4d4afd43d7cfda454ddbf23367d18f40.jpg",
+                        "https://s9.kh1.co/__image/w=426,h=1280,q=100/a9/a9604027167552ba7cfa0803d18076caddc67b4c.jpg",
+                        "https://s9.kh1.co/__image/w=650,h=366,q=100/d9/d98e3624bb536aba0c808eee38ed7c8142cdbb27.jpg",
+                        "https://s9.kh1.co/__image/w=650,h=366,q=100/61/6112a729c0e7232b453798620f0d921e91d2c172.jpg"
+                    ]
+                }
+            },
+            {
+                "ကမ္ဘာ့ဆွဲဆောင်မှုအရှိဆုံး အပြုံးပိုင်ရှင်ဖြစ်လာတဲ့ မိန်းမပျိုလေးတွေရဲ့ အသည်းစွဲ Harry Styles": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/ec/ec986352f9da21ccd33045d13f16fb3a82274700.jpg"
+                    ]
+                }
+            },
+            {
+                "အစ်ကိုဖြစ်သူဝေမျှပေးလာတဲ့ မင်းသမီး Park Shin Hye ရဲ့သားလေး မွေးကင်းစတုန်းက ပုံစံလေး": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/8a/8ab3e8ad9c7cb590abe7495c49989a55be850c20.jpg"
+                    ]
+                }
+            },
+            {
+                "တဖြည်းဖြည်းအရွယ်ရောက်လာတဲ့ သားလေးကို ချစ်မဝဖြစ်နေတဲ့ Markis နဲ့ စုစုဝေ": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/0f/0f524ed9d6a74ec193c13d31cefd029c8ce5372b.jpg"
+                    ]
+                }
+            },
+            {
+                "Park Shin Hye နဲ့ ပြန်ပြီးလက်တွဲလုပ်ကိုင်ရမယ့် ခံစားချက်ကို ပြောပြလာတဲ့ Park Hyung Sik": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/fa/fabc5cd4c4df794d70554ad9e5dcc9af6839e03b.jpg"
+                    ]
+                }
+            },
+            {
+                "": {
+                    "paragraphs": [],
+                    "images": []
+                }
+            }
+        ]
+    },
+    "https://myanmarload.com/writer/132": {
+        "title": "Thu Ya  - Myanmarload",
+        "description": "Visit Myanmarload for up-to-the-minute news, breaking news, and feature stories.",
+        "article": []
+    },
+    "https://myanmarload.com/article/108145": {
+        "title": "Island ဇာတ်လမ်းတွဲကို ခက်ခက်ခဲခဲ ရိုက်ကူးခဲ့ရပုံကို ပြောပြလာတဲ့ Cha Eun Woo - Myanmarload",
+        "description": "ကောင်လေးတော်လိုက်တာ ..",
+        "article": [
+            {
+                "Island ဇာတ်လမ်းတွဲကို ခက်ခက်ခဲခဲ ရိုက်ကူးခဲ့ရပုံကို ပြောပြလာတဲ့ Cha Eun Woo": {
+                    "paragraphs": [
+                        "ကောင်လေးတော်လိုက်တာ ..",
+                        "တောင်ကိုရီးယားမင်းသား Cha Eun Woo ဟာဆိုရင် Island Part 2 အပြီးမှာ သူ့ရဲ့ ခံစားချက်တွေကို ဖွင့်ဟပြောဆိုလာခဲ့ပါတယ်။ ",
+                        "မတ်လ ၁၁ ရက်နေ့မှာ Fantagio အေဂျင်စီဘက်ကနေ island မှာ ပါဝင်ခဲ့တဲ့ Cha Eun Woo ရဲ့ ဓာတ်ပုံတွေကို တင်ပေးခဲ့ပါတယ်။ ",
+                        "Cha Eun Woo ဟာဆိုရင် Island မှာပါဝင်ခွင့်ရတဲ့အတွက် ဝမ်းသာခဲ့ပေမယ့် တစ်ခါမှ မရိုက်ဖူးတဲ့ Genre တစ်ခုကိုရိုက်ရမယ့်အတွက် စိုးရိမ်မိကြောင်းလည်း ပြောခဲ့ပါတယ်။ တစ်ခါမှ မရိုက်ဖူးတဲ့ Yohan ရဲ့ ဇာတ်ကောင်ပုံစံမျိုးကိုရိုက်ကူးရမယ့်အတွက် အမျာကြီး ပြင်ဆင်ခဲ့ရတယ်လို့လည်း Cha Eun Woo ကဆိုပါတယ်။ ",
+                        "Island က သူ့ကို အတွေ့အကြုံတွေအများကြီးပေးပြီး အများကြီးသင်ယူပေးခဲ့တာကြောင့် Yohan ဇာတ်ကောင်ကို  အချိန်အကြာကြီး မေ့ဦးမှာ မဟုတ်ဘူးလို့ ဆိုပါတယ်။ ဇာတ်လမ်းထဲမှာ ပါဝင် ကူညီပေးခဲ့တဲ့ သရုပ်ဆောင် အယောက် ချင်းစီကို ကျေးဇူးတင်ရင်း အတွေ့အကြုံတွေကို ဝေမျှပေးခဲ့တဲ့ တောင်ကိုရီးယားမင်းသား Cha Eun Woo  ရဲ့အကြောင်းကို ပရိသတ်ကြီးအတွက် ဝေမျှပေးလိုက်ပါတယ်။ ",
+                        "Cha Eun Woo ဟာဆိုရင် လက်ရှိမှာ A Good Day to be a Dog ဆိုတဲ့ ဇာတ်လမ်းကို ရိုက်ကူးလျက်ရှိပါတယ်။ "
+                    ],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/54/541fb4faf72b9167546dfbaa160b099fb2271a44.jpeg",
+                        "https://s9.kh1.co/__image/w=641,h=960,q=100/03/03765bd0b864ff4136ea132d8fed0829bdcc75d0.jpeg",
+                        "https://s9.kh1.co/__image/w=650,h=813,q=100/e6/e6a3e844bae8669ffe92a0186acccc5de09ef222.jpeg",
+                        "https://s9.kh1.co/__image/w=650,h=812,q=100/64/64b7af9108846ca34a060798c72c5e1d512e8453.jpeg",
+                        "https://s9.kh1.co/__image/w=650,h=867,q=100/de/de5b8616221394a4ec1533c0079bb8a905d60d0d.webp",
+                        "https://s9.kh1.co/__image/w=650,h=392,q=100/c8/c81274cf8b53c2b8635e22a1b5f9331de3e0abc4.png"
+                    ]
+                }
+            },
+            {
+                "ကမ္ဘာ့ဆွဲဆောင်မှုအရှိဆုံး အပြုံးပိုင်ရှင်ဖြစ်လာတဲ့ မိန်းမပျိုလေးတွေရဲ့ အသည်းစွဲ Harry Styles": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/ec/ec986352f9da21ccd33045d13f16fb3a82274700.jpg"
+                    ]
+                }
+            },
+            {
+                "အစ်ကိုဖြစ်သူဝေမျှပေးလာတဲ့ မင်းသမီး Park Shin Hye ရဲ့သားလေး မွေးကင်းစတုန်းက ပုံစံလေး": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/8a/8ab3e8ad9c7cb590abe7495c49989a55be850c20.jpg"
+                    ]
+                }
+            },
+            {
+                "တဖြည်းဖြည်းအရွယ်ရောက်လာတဲ့ သားလေးကို ချစ်မဝဖြစ်နေတဲ့ Markis နဲ့ စုစုဝေ": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/0f/0f524ed9d6a74ec193c13d31cefd029c8ce5372b.jpg"
+                    ]
+                }
+            },
+            {
+                "Park Shin Hye နဲ့ ပြန်ပြီးလက်တွဲလုပ်ကိုင်ရမယ့် ခံစားချက်ကို ပြောပြလာတဲ့ Park Hyung Sik": {
+                    "paragraphs": [],
+                    "images": [
+                        "https://s9.kh1.co/__image/w=1200,h=630,q=100/fa/fabc5cd4c4df794d70554ad9e5dcc9af6839e03b.jpg"
+                    ]
+                }
+            },
+            {
+                "": {
+                    "paragraphs": [],
+                    "images": []
+                }
+            }
+        ]
+    }
+}
