@@ -1,1 +1,35 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependencies
+node_modules
+
+# Environment variables
+.env
+
+# Production build
+build
+
+# macOS system files
+.DS_Store
+
+# Windows Thumbs.db files
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Compiled output
+dist/
+
+# node_modules files
 node_modules
