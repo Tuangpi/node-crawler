@@ -17,6 +17,7 @@ A brief description of what this project does.
 
 To install the necessary dependencies, run the following command:
 
+npm install
 
 ## Usage
 
