@@ -1,6 +1,6 @@
-const exportJsonFile = require("../utils/exportJsonFile");
+const exportJsonFile = require("../helpers/exportJsonFile");
 const puppeteer = require("puppeteer");
-const getContents = require("../utils/getContents");
+const getContents = require("../helpers/getContents");
 
 async function webCrawlerController(req, res) {
   const url = req.body.targetUrl;
@@ -12,6 +12,8 @@ async function webCrawlerController(req, res) {
     await page.goto(url);
 
     const contents = await getContents(page, 4);
+
+    await browser.close();
 
     console.log(contents.length);
 
