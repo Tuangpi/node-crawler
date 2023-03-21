@@ -1,8 +1,8 @@
-const exportJsonFile = require("../helpers/exportJsonFile");
 const puppeteer = require("puppeteer");
 const getContents = require("../helpers/getContents");
+const Content = require("../models/Content");
 
-async function webCrawlerController(req, res) {
+const creatContent = (req, res) => {
   const url = req.body.targetUrl;
 
   (async () => {
@@ -11,16 +11,30 @@ async function webCrawlerController(req, res) {
 
     await page.goto(url);
 
-    const contents = await getContents(page, 4);
+    const contents = await getContents(page, 3);
 
     await browser.close();
 
     console.log(contents.length);
-
+    
+    contents.forEach((content) => {
+      Content.create({
+        content: content,
+      })
+        .then((data) => data.id)
+        .catch((error) => console.log(error));
+    });
     res.render("index", { contents }); //send to view
-
-    exportJsonFile(url, contents); // export to json file
   })();
-}
+};
 
-module.exports = webCrawlerController;
+const getAll = (req, res, next) => {
+  Content.findAll()
+    .then((u) => {
+      console.log(u);
+      res.json(u);
+    })
+    .catch((error) => console.log(error));
+};
+
+module.exports = { getAll, creatContent };

@@ -1,49 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Web Crawler</title>
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+  </head>
 
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Web Crawler</title>
-  <link href="css/style.css" rel="stylesheet" type="text/css">
-</head>
-
-<body>
-  <div class="container">
-    <h1>Enter a URL to crawl:</h1>
-    <form method="post" action="/" style="margin: auto;">
-      <label for="target-url">Enter a URL to crawl:</label>
-      <input type="text" id="target-url" name="targetUrl" placeholder="https://example.com" required>
-      <button type="submit">Crawl</button>
-    </form>
-    <br />
-    <br />
-    <% contents=='' ? '' :contents.forEach(function(item) { %>
+  <body>
+    <div class="container">
+      <h1>Enter a URL to crawl:</h1>
+      <form method="post" action="/" style="margin: auto">
+        <label for="target-url">Enter a URL to crawl:</label>
+        <input
+          type="text"
+          id="target-url"
+          name="targetUrl"
+          placeholder="https://example.com"
+          required
+        />
+        <button type="submit">Crawl</button>
+      </form>
+      <br />
+      <br />
+      <% contents=='' ? '' :contents.forEach(function(item) { %>
       <div class="content">
-        <div style="display: flex;">
-          ID: <%- item.id %>
-        </div>
+        <div style="display: flex">ID: <%- item.id %></div>
+        <div>Title: <%- item.title %></div>
+        <div style="display: flex">Category: <%- item.category %></div>
+        <div style="display: flex">Time: <%- item.dateTime %></div>
+        <div style="display: flex">sub title: <%- item.subTitle %></div>
         <div>
-          Title: <%- item.title %>
-        </div>
-        <div style=" display: flex;">
-          Category: <%- item.category %>
-        </div>
-        <div style="display: flex;">
-          Time: <%- item.dateTime %>
-        </div>
-        <div style="display: flex;">
-          sub title: <%- item.subTitle %>
-        </div>
-        <div>
-          <% item.content.forEach(function(para){ %>
-            <%- para %>
-              <% })%>
+          <% item.content.forEach(function(para){ %> <%- para %> <% })%>
         </div>
       </div>
       <% }); %>
-  </div>
-</body>
-
+    </div>
+  </body>
 </html>

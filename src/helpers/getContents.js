@@ -2,7 +2,7 @@ const extractNumbersFromString = require("../helpers/extractNumbersFromString");
 
 async function getContents(page, pageCount) {
   let contents = [];
-  let urls = [];
+  let ids = [];
 
   while (pageCount >= contents.length) {
     contents = await page.$$eval(".grid-article-detail", (element) =>
@@ -27,13 +27,13 @@ async function getContents(page, pageCount) {
 
     await page.evaluate("window.scrollTo(0, document.body.scrollHeight)"); // auto scroll
 
-    urls.push(await page.url()); //get urls
+    ids.push(await page.url()); //get urls
   }
 
-  const uniqueURLS = Array.from(new Set(urls)); // remove duplicate urls
+  const uniqueIDs = Array.from(new Set(ids)); // remove duplicate urls
 
   const combinedArray = contents.map((item, index) => {
-    return { id: extractNumbersFromString(uniqueURLS[index]), ...item };
+    return { id: extractNumbersFromString(uniqueIDs[index]), ...item };
   });
   combinedArray.pop(); // always contain null in the last array so remove it
 
