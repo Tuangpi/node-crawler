@@ -7,7 +7,7 @@ function exportJsonFile(url, data) {
 
   let folderName = parts[parts.length - 2];
 
-  if (parts.length > 2 && parts[parts.length - 1].length <= 3) {
+  if (parts.length > 3 && parts[parts.length - 1].length <= 3) {
     folderName = parts[parts.length - 3];
   }
 

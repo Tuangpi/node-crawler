@@ -4,6 +4,7 @@ const path = require("path");
 const compression = require("compression");
 
 const routes = require("./routes/routes");
+const apiRouter = require("./routes/api");
 
 const app = express();
 
@@ -20,6 +21,8 @@ app.set("views", __dirname + "/views");
 
 //Routes
 app.use("/", routes);
+
+app.use("/api", apiRouter);
 
 //Not found
 app.use((req, res, next) => {

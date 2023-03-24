@@ -24,13 +24,13 @@
       </form>
       <br />
       <br />
-      <% contents=='' ? '' :contents.forEach(function(item) { %>
+      <% contents == null ? '' :contents.forEach(function(item) { %>
       <div class="content">
-        <div style="display: flex">ID: <%- item.id %></div>
+        <div style="display: flex">ID: <%- item.content_id %></div>
         <div>Title: <%- item.title %></div>
         <div style="display: flex">Category: <%- item.category %></div>
-        <div style="display: flex">Time: <%- item.dateTime %></div>
-        <div style="display: flex">sub title: <%- item.subTitle %></div>
+        <div style="display: flex">Time: <%- item.posted_time %></div>
+        <div style="display: flex">sub title: <%- item.sub_title %></div>
         <div>
           <% item.content.forEach(function(para){ %> <%- para %> <% })%>
         </div>
