@@ -21,7 +21,7 @@ async function getContentsFromMyanmarload(page) {
         "no subTitle found",
       content: Array.from(
         element.querySelectorAll(
-          ".grid-article-content > p, .article-content-image-modal, .article-tags, .article-celebrities, .article-content-embed youtube"
+          ".grid-article-content > p, .article-content-image-modal, .article-tags, .article-celebrities, .article-content-embed youtube, .article-content-embed iframe"
         )
       ).map((content) => content.outerHTML || "no content found"),
       contentSnippet: Array.from(
@@ -36,7 +36,7 @@ async function getContentsFromMyanmarload(page) {
 
     contents.push(content);
   } catch (error) {
-    console.error(error);
+    throw new Error(error.message);
   }
 
   try {
@@ -49,7 +49,8 @@ async function getContentsFromMyanmarload(page) {
 
     authors.push(author);
   } catch (error) {
-    console.error(error);
+    contents = [];
+    throw new Error(error.message);
   }
 
   ids.push(await page.url()); //get urls

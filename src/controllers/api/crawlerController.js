@@ -19,38 +19,50 @@ const crawledContents = async (req, res) => {
   //   return;
   // }
 
-  for (let i = 0; i < 1000; i++) {
-    const browser = await puppeteer.launch({ headless: true });
-    const page = await browser.newPage();
+  for (let i = 0; i < 500; i++) {
+    try {
+      const browser = await puppeteer.launch({ headless: true });
+      const page = await browser.newPage();
 
-    const contentId = extractNumbersFromString(url);
-    const newUrl = replaceString(
-      url,
-      contentId,
-      (parseInt(contentId, 10) + i).toString()
-    );
+      const contentId = extractNumbersFromString(url);
+      const newUrl = replaceString(
+        url,
+        contentId,
+        (parseInt(contentId, 10) + i).toString()
+      );
 
-    await page.goto(newUrl, {
-      waitUntil: "domcontentloaded",
-      timeout: 0,
-    });
+      await page.goto(newUrl, {
+        waitUntil: "domcontentloaded",
+        timeout: 0,
+      });
 
-    const content = await getContentsFromMyanmarload(page);
+      // const content = await getContentsFromMyanmarload(page);
 
-    // const content = await getContentsFromMizzima(page);
+      const content = await getContentsFromMizzima(page);
 
-    // const content = await getContentsFromEleven(page);
+      // const content = await getContentsFromEleven(page);
 
-    if (content[0] !== undefined) {
-      contents.push(content[0]);
-      listCrawledUrl.push(url);
+      if (content[0] !== undefined) {
+        contents.push(content[0]);
+        listCrawledUrl.push(newUrl);
+      }
+
+      console.log(newUrl);
+      await browser.close();
+    } catch (error) {
+      if (error.message.toString().includes("failed to find element")) {
+        console.error("FAILED TO FIND ELEMENT-------SKIP");
+      } else if (error.message.toString().includes("net::ERR_")) {
+        console.log("ATTEMPTING TO RECONNECT IN 60 SECONDS...");
+        await new Promise((resolve) => setTimeout(resolve, 60000));
+        --i;
+      } else {
+        console.error(error);
+      }
     }
-
-    console.log(i);
-    await browser.close();
   }
 
-  console.log(contents.length);
+  console.log(contents.length + "crawled");
 
   ////save to postgres
   // contents.forEach((content) => {
@@ -66,6 +78,7 @@ const crawledContents = async (req, res) => {
   //     .catch((error) => console.log(error));
   // });
   // res.status(200).json(contents);
+  listCrawledUrl.unshift(listCrawledUrl.length);
   exportJsonFile(url, contents);
   exportJsonFile("https://listurl.com/article/83000", listCrawledUrl);
 };

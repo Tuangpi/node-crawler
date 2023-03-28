@@ -8,7 +8,7 @@ const checkAndConvertYoutubeVideoUrl = require("./utils/checkAndConvertYoutubeVi
 async function getContentsFromMizzima(page) {
   const contents = [];
   const ids = [];
-  
+
   try {
     const content = await page.$eval(".region-two-66-33-first", (element) => ({
       sourceAuthor:
@@ -36,7 +36,7 @@ async function getContentsFromMizzima(page) {
 
     contents.push(content);
   } catch (error) {
-    console.error(error);
+    throw new Error(error.message);
   }
 
   ids.push(await page.url()); //get urls
