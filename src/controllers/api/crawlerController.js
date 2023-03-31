@@ -1,10 +1,10 @@
 const puppeteer = require("puppeteer");
 
-const getContentsFromMyanmarload = require("../../helpers/getContentsFromMyanmarload");
+const getContentFromMyanmarload = require("../../helpers/getContentsFromMyanmarload");
 const Content = require("../../models/Content");
 const isURLCrawled = require("../../helpers/utils/isURLCrawled");
-const getContentsFromMizzima = require("../../helpers/getContentsFromMizzima");
-const getContentsFromEleven = require("../../helpers/getContentFromEleven");
+const getContentFromMizzima = require("../../helpers/getContentsFromMizzima");
+const getContentFromEleven = require("../../helpers/getContentFromEleven");
 const extractNumbersFromString = require("../../helpers/utils/extractNumbersFromString");
 const replaceString = require("../../helpers/utils/replaceString");
 const exportJsonFile = require("../../helpers/utils/exportJsonFile");
@@ -18,10 +18,10 @@ const crawledContents = async (req, res) => {
   //   res.redirect("/");
   //   return;
   // }
-
+  let browser;
   for (let i = 0; i < 500; i++) {
     try {
-      const browser = await puppeteer.launch({ headless: true });
+      browser = await puppeteer.launch({ headless: true });
       const page = await browser.newPage();
 
       const contentId = extractNumbersFromString(url);
@@ -36,11 +36,11 @@ const crawledContents = async (req, res) => {
         timeout: 0,
       });
 
-      // const content = await getContentsFromMyanmarload(page);
+      // const content = await getContentFromMyanmarload(page);
 
-      const content = await getContentsFromMizzima(page);
+      // const content = await getContentFromMizzima(page);
 
-      // const content = await getContentsFromEleven(page);
+      const content = await getContentFromEleven(page);
 
       if (content[0] !== undefined) {
         contents.push(content[0]);
@@ -52,12 +52,14 @@ const crawledContents = async (req, res) => {
     } catch (error) {
       if (error.message.toString().includes("failed to find element")) {
         console.error("FAILED TO FIND ELEMENT-------SKIP");
+        await browser.close();
       } else if (error.message.toString().includes("net::ERR_")) {
         console.log("ATTEMPTING TO RECONNECT IN 60 SECONDS...");
         await new Promise((resolve) => setTimeout(resolve, 60000));
         --i;
       } else {
         console.error(error);
+        await browser.close();
       }
     }
   }

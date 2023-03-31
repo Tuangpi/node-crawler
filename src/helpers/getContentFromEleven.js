@@ -15,9 +15,9 @@ async function getContentsFromEleven(page) {
       title:
         element.querySelector(".news-detail-title")?.innerText ||
         "no title found",
-      category:
-        element.querySelector(".news-detail-news-category").innerText ||
-        "no category found",
+      category: Array.from(
+        element.querySelectorAll(".news-detail-news-category a")
+      ).map((e) => e.innerText || "no category found"),
       createdAt: element.querySelector(".news-detail-date-author-info-date")
         .innerText,
       content: Array.from(element.querySelectorAll(".node-content p")).map(
@@ -26,14 +26,14 @@ async function getContentsFromEleven(page) {
       contentSnippet: Array.from(
         element.querySelectorAll(".node-content p")
       ).map((e) => e.innerText),
-      sourceImages: Array.from(element.querySelectorAll(".news-image img")).map(
-        (e) => e.getAttribute("src")
-      ),
+      sourceImages: Array.from(
+        element.querySelectorAll(".news-image img, .node-content p img")
+      ).map((e) => e.getAttribute("src")),
     }));
 
     contents.push(content);
   } catch (error) {
-    console.error(error);
+    throw new Error(error.message);
   }
 
   ids.push(await page.url()); //get urls
