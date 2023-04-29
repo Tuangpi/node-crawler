@@ -2,26 +2,23 @@ const puppeteer = require("puppeteer");
 
 const getContentFromMyanmarload = require("../../helpers/getContentsFromMyanmarload");
 const Content = require("../../models/Content");
-const isURLCrawled = require("../../helpers/utils/isURLCrawled");
 const getContentFromMizzima = require("../../helpers/getContentsFromMizzima");
 const getContentFromEleven = require("../../helpers/getContentFromEleven");
 const extractNumbersFromString = require("../../helpers/utils/extractNumbersFromString");
 const replaceString = require("../../helpers/utils/replaceString");
 const exportJsonFile = require("../../helpers/utils/exportJsonFile");
+const getContentsFromEleven = require("../../helpers/getContentFromEleven");
+const getContentsFromMyanmarNow = require("../../helpers/getContentsFromMyanmarNow");
 
 const crawledContents = async (req, res) => {
   const url = req.body.targetUrl;
   const contents = [];
   const listCrawledUrl = [];
 
-  // if (await isURLCrawled(url)) {
-  //   res.redirect("/");
-  //   return;
-  // }
   let browser;
   for (let i = 0; i < 500; i++) {
     try {
-      browser = await puppeteer.launch({ headless: true });
+      browser = await puppeteer.launch({ headless: true, product: 'chrome' });
       const page = await browser.newPage();
 
       const contentId = extractNumbersFromString(url);
@@ -37,6 +34,8 @@ const crawledContents = async (req, res) => {
       });
 
       // const content = await getContentFromMyanmarload(page);
+
+      // const content = await getContentsFromMyanmarNow(page);
 
       // const content = await getContentFromMizzima(page);
 
@@ -80,9 +79,8 @@ const crawledContents = async (req, res) => {
   //     .catch((error) => console.log(error));
   // });
   // res.status(200).json(contents);
-  listCrawledUrl.unshift(listCrawledUrl.length);
+
   exportJsonFile(url, contents);
-  exportJsonFile("https://listurl.com/article/83000", listCrawledUrl);
 };
 
 module.exports = { crawledContents };

@@ -23,15 +23,12 @@ npm install
 
 To run the project, use the following command:
 
+npm start
+
 
 ## API Reference
 
 A reference of the API endpoints can be found in the `API.md` file.
-
-## Tests
-
-To run the tests for this project, use the following command:
-
 
 ## Contributing
 

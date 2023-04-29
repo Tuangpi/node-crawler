@@ -10,6 +10,7 @@ async function getContentsFromMizzima(page) {
   const ids = [];
 
   try {
+    console.log('j')
     const content = await page.$eval(".region-two-66-33-first", (element) => ({
       sourceAuthor:
         element.querySelector(".news-details-author-by")?.innerText ||

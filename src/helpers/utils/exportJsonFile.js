@@ -22,6 +22,7 @@ function exportJsonFile(url, data) {
   const outputFilename = path.join(outputDir, `output.json`);
 
   fs.writeFileSync(outputFilename, JSON.stringify(data, null, 2));
+  console.info("output file is written in" + outputDir);
 }
 
 module.exports = exportJsonFile;

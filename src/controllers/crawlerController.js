@@ -7,20 +7,60 @@ const getContentsFromEleven = require("../helpers/getContentFromEleven");
 
 const creatContent = async (req, res) => {
   const url = req.body.targetUrl;
+  const contents = [];
+  const listCrawledUrl = [];
 
-  // if (await isURLCrawled(url)) {
-  //   res.redirect("/");
-  //   return;
-  // }
+  let browser;
+  for (let i = 0; i < 500; i++) {
+    try {
+      browser = await puppeteer.launch({ headless: true, product: 'chrome' });
+      const page = await browser.newPage();
 
-  // const contents = await getContentsFromMyanmarload(url, 1);
+      const contentId = extractNumbersFromString(url);
+      const newUrl = replaceString(
+        url,
+        contentId,
+        (parseInt(contentId, 10) + i).toString()
+      );
 
-  // const contents = await getContentsFromMizzima(url, 1);
+      await page.goto(newUrl, {
+        waitUntil: "domcontentloaded",
+        timeout: 0,
+      });
 
-  const contents = await getContentsFromEleven(url, 1);
+      // const content = await getContentFromMyanmarload(page);
 
-  console.log(contents.length);
+      // const content = await getContentsFromMyanmarNow(page);
 
+      // const content = await getContentFromMizzima(page);
+
+      const content = await getContentFromEleven(page);
+
+      if (content[0] !== undefined) {
+        contents.push(content[0]);
+        listCrawledUrl.push(newUrl);
+      }
+
+      console.log(newUrl);
+      await browser.close();
+    } catch (error) {
+      if (error.message.toString().includes("failed to find element")) {
+        console.error("FAILED TO FIND ELEMENT-------SKIP");
+        await browser.close();
+      } else if (error.message.toString().includes("net::ERR_")) {
+        console.log("ATTEMPTING TO RECONNECT IN 60 SECONDS...");
+        await new Promise((resolve) => setTimeout(resolve, 60000));
+        --i;
+      } else {
+        console.error(error);
+        await browser.close();
+      }
+    }
+  }
+
+  console.log(contents.length + "crawled");
+
+  ////save to postgres
   // contents.forEach((content) => {
   //   Content.create({
   //     content_id: content.id,
@@ -33,8 +73,10 @@ const creatContent = async (req, res) => {
   //     .then((data) => console.log(data.id))
   //     .catch((error) => console.log(error));
   // });
-  res.redirect("/");
+  // res.status(200).json(contents);
+
   exportJsonFile(url, contents);
+  res.redirect("/");
 };
 
 module.exports = { creatContent };
